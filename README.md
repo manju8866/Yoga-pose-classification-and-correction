@@ -9,9 +9,6 @@ This project aims to develop a real-time system for classifying and correcting c
 Dataset link : 
 https://www.kaggle.com/datasets/lakshmanarajak/yoga-dataset
 
-Here’s a clear and detailed **Methodology** section you can use in your GitHub README for your Yoga Pose Detection and Correction project:
-
----
 
 ##  Methodology
 
