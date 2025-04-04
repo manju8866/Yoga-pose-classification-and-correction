@@ -13,7 +13,7 @@ Here’s a clear and detailed **Methodology** section you can use in your GitHub
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 Our project follows a systematic approach to detect and correct yoga poses using machine learning and human pose estimation. Below is the complete methodology:
 
@@ -57,5 +57,7 @@ To increase model generalization and reduce overfitting, we applied various augm
   - Corrections are suggested if the user’s posture deviates from the correct alignment.
 
 ## Results
+
+
 
 
