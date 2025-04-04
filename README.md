@@ -56,7 +56,7 @@ To increase model generalization and reduce overfitting, we applied various augm
   - The predicted pose is compared with the expected pose.
   - Corrections are suggested if the user’s posture deviates from the correct alignment.
 
-## Results
+
 
 
 
